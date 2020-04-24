@@ -1,0 +1,19 @@
+h1 {
+  color: pink;
+  text-align: right;
+}
+h2 {
+  color: mediumorchid;
+  font-style: oblique;
+  text-align: center;
+}
+h3 {
+    color: pink;
+    font-style: oblique;
+}
+p {
+  font-family: Times;
+}
+ul {
+  line-height: 25px;
+}
