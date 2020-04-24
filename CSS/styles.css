@@ -11,9 +11,16 @@ h3 {
     color: pink;
     font-style: oblique;
 }
+h4 {
+   color: pink;
+   font-style: oblique;
+ }
 p {
   font-family: Times;
 }
 ul {
-  line-height: 25px;
+  line-height: 19px;
+}
+ol {
+  line-height: 19px;
 }
