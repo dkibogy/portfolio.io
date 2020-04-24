@@ -1,5 +1,5 @@
 h1 {
-  color: pink;
+  color: darkmagenta;
   text-align: right;
 }
 h2 {
@@ -11,12 +11,10 @@ h3 {
     color: pink;
     font-style: oblique;
 }
-h4 {
-   color: pink;
-   font-style: oblique;
- }
+
 p {
   font-family: Times;
+  color: black;
 }
 ul {
   line-height: 19px;
@@ -28,5 +26,5 @@ ol {
   font-style: italic;
 }
 .important {
-  color: lightpink;
+  color: lightslategray;
 }
