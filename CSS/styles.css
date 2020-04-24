@@ -3,28 +3,38 @@ h1 {
   text-align: right;
 }
 h2 {
-  color: mediumorchid;
+  color: darkmagenta;
   font-style: oblique;
   text-align: center;
 }
 h3 {
-    color: pink;
+    color: darkmagenta;
     font-style: oblique;
+    text-align: center;
 }
-
+body {
+  background-color: plum;
+}
 p {
-  font-family: Times;
+  font-family: fantasy;
   color: black;
 }
 ul {
   line-height: 19px;
+  font-style: oblique;
 }
 ol {
   line-height: 19px;
+  font-style: oblique;
 }
 .intro {
   font-style: italic;
 }
 .important {
   color: lightslategray;
+}
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: indigo;
 }
