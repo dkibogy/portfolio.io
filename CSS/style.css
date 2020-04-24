@@ -1,3 +1,18 @@
 h1 {
   color: black;
 }
+h2 {
+  color: pink;
+}
+h3 {
+  color: lavender;
+}
+h4 {
+  color: plum;
+}
+p {
+  font-family: fantasy;
+}
+ul {
+  line-height: 30px;
+}
