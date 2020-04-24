@@ -24,3 +24,9 @@ ul {
 ol {
   line-height: 19px;
 }
+.intro {
+  font-style: italic;
+}
+.important {
+  color: lightpink;
+}
